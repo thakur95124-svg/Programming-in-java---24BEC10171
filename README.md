@@ -44,5 +44,5 @@ Later I can add:
 ---
 
 ## Author
-**Name:** Rishabh Verma
-**Reg No:** 24BEY10159
+**Name:** Thakur Shubham Kumar
+**Reg No:** 24BEC10171
